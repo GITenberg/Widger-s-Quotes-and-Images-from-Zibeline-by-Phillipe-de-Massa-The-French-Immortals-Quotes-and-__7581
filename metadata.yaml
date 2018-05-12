@@ -1,4 +1,5 @@
 _repo: Widger-s-Quotes-and-Images-from-Zibeline-by-Phillipe-de-Massa-The-French-Immortals-Quotes-and-__7581
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -6,6 +7,9 @@ contributor:
       birthdate: 1932
       gutenberg_agent_id: '1961'
       url: http://www.gutenberg.org/2009/agents/1961
+covers:
+- cover_type: archival
+  image_path: 7581-h/images/cover.jpg
 creator:
   author:
     agent_name: Massa, Philippe, marquis de
@@ -18,6 +22,8 @@ creator:
     gutenberg_agent_id: '1339'
     url: http://www.gutenberg.org/2009/agents/1339
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7581#Widger-s-Quotes-and-Images-from-Zibeline-by-Phillipe-de-Massa-The-French-Immortals-Quotes-and-_
 gutenberg_issued: '2009-07-13'
 gutenberg_type: Text
 identifiers:
